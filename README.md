@@ -3,7 +3,7 @@
 My main expertise is in Backend java. I also have experience in frontend, eg. React, Typescript and other frameworks.
 
 - 🔭 I’m currently working on microservices on Spring Boot
-- 🌱 I’m currently learning kafka, devops, security...
+- 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Kukumber, Jmeter. 
 <!--
 **joselll3/joselll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
