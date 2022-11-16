@@ -3,7 +3,7 @@
 My main expertise is in Backend java. I also have experience in frontend, eg. React, Typescript and other frameworks.
 
 - 🔭 I’m currently working on microservices on Spring Boot
-- 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Kukumber, Jmeter.
+- 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Jmeter, Cucumber, Selenium, Rest Asured API.
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,docker,react,redux,git,github,maven,gradle,idea,eclipse,vscode,jenkins)](https://skillicons.dev)
