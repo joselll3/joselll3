@@ -12,6 +12,8 @@ My main expertise is in Backend java. I also have experience in frontend, eg. Re
 :bookmark: [Unit test with jUnit](https://profile.es/blog/pruebas-unitarias-con-junit).
 
 :bookmark: [First steps with Apache Kafka](https://profile.es/blog/que-es-apache-kafka-primeros-pasos/).
+
+:bookmark: [Automating tests with Selenium](https://profile.es/blog/como-automatizar-pruebas-con-selenium/).
 <!--
 **joselll3/joselll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
