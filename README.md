@@ -3,7 +3,7 @@
 My main expertise is in Backend java. I also have experience in frontend, eg. React, Typescript and other frameworks.
 
 - 🔭 I’m currently working on microservices on Spring Boot
-- 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Jmeter, Cucumber, Selenium, Rest Asured API.
+- 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Jmeter, Cucumber, Selenium, Rest Asured API, Python.
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,docker,react,redux,git,github,maven,gradle,idea,eclipse,vscode,jenkins)](https://skillicons.dev)
@@ -14,6 +14,8 @@ My main expertise is in Backend java. I also have experience in frontend, eg. Re
 :bookmark: [First steps with Apache Kafka](https://profile.es/blog/que-es-apache-kafka-primeros-pasos/).
 
 :bookmark: [Automating tests with Selenium](https://profile.es/blog/como-automatizar-pruebas-con-selenium/).
+
+:bookmark: [Automating tests with Cucumber](https://profile.es/blog/cucumber-automatizar-pruebas-entorno-bdd/).
 <!--
 **joselll3/joselll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
