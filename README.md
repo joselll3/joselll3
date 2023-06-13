@@ -6,7 +6,7 @@ My main expertise is in Backend java. I also have experience in frontend, eg. Re
 - 🌱 I’m currently learning kafka, devops (Docker, Kubernates, Terraform, Azure DevOps), rest security api, Jmeter, Cucumber, Selenium, Rest Asured API, Python.
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,docker,react,redux,git,github,maven,gradle,idea,eclipse,vscode,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,react,git,maven)](https://skillicons.dev)
 
 #### Learn with me
 :bookmark: [Unit test with jUnit](https://profile.es/blog/pruebas-unitarias-con-junit).
@@ -16,6 +16,8 @@ My main expertise is in Backend java. I also have experience in frontend, eg. Re
 :bookmark: [Automating tests with Selenium](https://profile.es/blog/como-automatizar-pruebas-con-selenium/).
 
 :bookmark: [Automating tests with Cucumber](https://profile.es/blog/cucumber-automatizar-pruebas-entorno-bdd/).
+
+:bookmark: [BDD Methodology to obtain acceptance tests](https://www.youtube.com/watch?v=SVtWk9PXqc4).
 <!--
 **joselll3/joselll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
